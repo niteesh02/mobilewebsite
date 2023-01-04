@@ -1,0 +1,22 @@
+.bgimg {
+	background-image:url('https://tse1.mm.bing.net/th?id=OIP.iZmRJpSySKsI7x8gUlTSyAHaEz&pid=Api&P=0');
+
+    background-size: cover;
+	height: 100vh;
+}
+.niteesh {
+	background-color: white;
+	height: 200px;
+	border-top-left-radius: 20px;
+	border-top-right-radius:20px;
+	paddding:20px;
+}
+.heading {
+	color: black;
+	font-family: 'Roboto';
+	font-weight: bold;
+}
+.paraline {
+	font-family: 'Roboto';
+	color: darkgrey;
+}
