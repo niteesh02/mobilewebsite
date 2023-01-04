@@ -1,0 +1,39 @@
+.bgimg2 {
+	background-image:url('https://res.cloudinary.com/dg1gsvl0m/image/upload/v1672308760/mobile-smartphone-dark-red-blue-neon-colors-mock-up-perspective-view-layout-device-presentation-interface-design_150455-14154_gjjmug.jpg');
+
+    background-size: cover;
+	height: 200vh;
+}
+.mobilehead {
+	color: white;
+	font-family: 'roboto';
+	font-weight: bold;
+	font-size: 35px;
+	padding: 25px;
+
+}
+.layoutcard2{
+	background-color:white;
+	border-radius: 8px;
+	padding: 20px;
+	margin: 18px;
+}
+
+.brandsing{
+	width: 100px;
+	height: 100;
+}
+.brandhead{
+	color: #66ffff;
+	font-family:roboto;
+	font-weight: bold;
+	font-size: 30px;
+}
+.brandpara{
+	color: darkblue;
+	font-family: 'robot';
+	font-size: 15px;
+}
+
+
+
